@@ -1,7 +1,41 @@
 .tab-pane{
     margin: 1%;
 }
-
 div.pageload{
     background: antiquewhite;
 }
+/**
+
+
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+}
+
+#app{
+	height: 100%;
+}
+
+#myTabContent{
+	height: 100%;
+}
+
+.contenter{
+	height: 100%;
+}
+
+.tab-pane{
+	height: 100%;
+}
+.row{
+	height: 100%;
+}
+.col-lg-4{
+	height: 100%;
+}
+#comptepanel{
+	height: 100%;
+}*/
