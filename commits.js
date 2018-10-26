@@ -205,3 +205,12 @@ function getNom(){
 +"]";
   return str;
 }
+
+function getProjet(){
+	var str = "["
++"    {"
++"        \"nomProjet\": \"github-ynov-vue\""
++"    }]";
+	
+	return str;
+}
